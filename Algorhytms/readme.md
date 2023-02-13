@@ -1,0 +1,3 @@
+## DISCLAIMER ##
+Whether you need a quick remind or refresh your knowledge of these algorithms, feel free to use them. Or if you are stuck at your homework...
+Drop a star if you liked it! :)
