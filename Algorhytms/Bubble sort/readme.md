@@ -4,11 +4,11 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 
 This simple algorithm performs poorly in real world use and is used primarily as an educational tool.
 
-Class: Sorting algorithm
+* Class: Sorting algorithm
 
-Data structure: Array
-Worst-case performance:
+* Data structure: Array
+* Worst-case performance:
     O(n ^ {2}) comparisons, O ( n ^ 2 ) O(n ^ {2}) swaps      |
 
-Best-case performance:
+* Best-case performance:
     O(n) comparisons, O ( 1 ) O(1) swaps      |
